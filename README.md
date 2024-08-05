@@ -1,0 +1,2 @@
+# HomeAssistantSKSvatek
+Slovak holiday name
